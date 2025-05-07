@@ -10960,6 +10960,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\326d3f13-4b09-4b85-b183-9fd4437bdbee-slide-06.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC_Projekt_Elearning</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC_Projekt_Elearning</BasePath>
+      <RelativePath>img/326d3f13-4b09-4b85-b183-9fd4437bdbee-slide-06.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\326d3f13-4b09-4b85-b183-9fd4437bdbee-slide-06.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\3d14fdd0-b284-4153-a373-fc21c7fde7d2-about.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>MVC_Projekt_Elearning</SourceId>
@@ -11007,6 +11023,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\490edcc3-a9c9-4150-9886-2d7c0b4abe87-carousel-1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\4cdffaf2-c6f5-4a46-a319-89c5d0e7f132-qirmizi 3.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC_Projekt_Elearning</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC_Projekt_Elearning</BasePath>
+      <RelativePath>img/4cdffaf2-c6f5-4a46-a319-89c5d0e7f132-qirmizi 3.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\4cdffaf2-c6f5-4a46-a319-89c5d0e7f132-qirmizi 3.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\52019194-355c-4a1a-af62-b71805d58148-1.jpg))">
       <SourceType>Package</SourceType>
@@ -11151,22 +11183,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\84e80b2f-1c5b-4cd3-aaa6-0580eb9e38aa-cat-4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\90c3a003-ed27-4794-8a57-234d3771c439-carousel-2.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>MVC_Projekt_Elearning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/MVC_Projekt_Elearning</BasePath>
-      <RelativePath>img/90c3a003-ed27-4794-8a57-234d3771c439-carousel-2.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\90c3a003-ed27-4794-8a57-234d3771c439-carousel-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\9786ae05-488c-4427-acd5-682903c8f48c-about.jpg))">
       <SourceType>Package</SourceType>
@@ -11455,22 +11471,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\f5871ecb-4eb3-441c-984c-f7e6a3f7ea7a-cat-2.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\f9c90475-2b26-480d-8522-0fc212ec9b56-90c3a003-ed27-4794-8a57-234d3771c439-carousel-2.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>MVC_Projekt_Elearning</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/MVC_Projekt_Elearning</BasePath>
-      <RelativePath>img/f9c90475-2b26-480d-8522-0fc212ec9b56-90c3a003-ed27-4794-8a57-234d3771c439-carousel-2.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\f9c90475-2b26-480d-8522-0fc212ec9b56-90c3a003-ed27-4794-8a57-234d3771c439-carousel-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\graduate_0.jpg))">
       <SourceType>Package</SourceType>
