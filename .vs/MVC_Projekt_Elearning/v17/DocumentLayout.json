@@ -1,133 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\about\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\about\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\mvc_projekt_elearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\mvc_projekt_elearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\pb101\\lahiye\\eleraningmvcprojekt\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\about\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\about\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|c:\\users\\user\\desktop\\mvcdeploy\\mvc_projekt_elearning\\mvc_projekt_elearning\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7172BF6-1AE5-40E8-A2E9-D813C10F3618}|MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj|solutionrelative:mvc_projekt_elearning\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -138,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,102 +154,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MVC_Projekt_Elearning",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\MVC_Projekt_Elearning.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T12:42:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\HomeVM.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\ViewModels\\HomeVM.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBgAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T09:23:07.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Course.cs",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\Models\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T09:19:49.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "InstructorController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T09:17:04.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "SliderService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\SliderService.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\SliderService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\SliderService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\SliderService.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\SliderService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T09:15:56.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T09:14:00.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISliderService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T09:13:35.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CourseService.cs",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\CourseService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CourseService.cs",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\CourseService.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAiwEsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T09:10:47.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T09:15:56.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:14:00.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\Interfaces\\ISliderService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:13:35.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CourseService.cs",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\CourseService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwEsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:10:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ICourseService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICourseService.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\Interfaces\\ICourseService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICourseService.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\Interfaces\\ICourseService.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA/wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,24 +240,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IAboutService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Program.cs",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T09:10:33.077Z",
+              "WhenOpened": "2024-08-16T14:21:21.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\appsettings.Development.json",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T07:40:04.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:17:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Course.cs",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:19:49.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
+              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
+              "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\Interfaces\\IAboutService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:10:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\CategoryService.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\CategoryService.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -278,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Services\\Interfaces\\ICategoryService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAA7wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -290,11 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Category.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -302,11 +338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Data\\AppDbContext.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -314,37 +350,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Slider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\Slider.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Models\\Slider.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:53:47.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:53:47.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Models\\BaseEntity.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Models\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:47:17.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:47:17.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Detail.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Detail.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Detail.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -352,11 +386,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwDYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,24 +398,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\AboutController.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\AboutController.cs",
               "ViewState": "AQIAAGEAAAAAAAAAAAA/wG4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T05:32:57.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T05:32:57.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -389,11 +422,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -401,24 +434,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CourseController.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CourseController.cs",
               "ViewState": "AQIAAGYAAAAAAAAAAAAowBAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:31:36.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T06:31:36.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "SliderCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Sliders\\SliderCreateVM.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\ViewModels\\Sliders\\SliderCreateVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Sliders\\SliderCreateVM.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\ViewModels\\Sliders\\SliderCreateVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -426,11 +458,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -438,24 +470,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAK0AAAAAAAAAAAAAAHQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T07:35:03.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T07:35:03.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\About\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -463,11 +494,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -475,23 +506,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Program.cs",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Program.cs",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:21:21.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "CourseCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Courses\\CourseCreateVM.cs",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\ViewModels\\Courses\\CourseCreateVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\ViewModels\\Courses\\CourseCreateVM.cs",
               "RelativeToolTip": "MVC_Projekt_Elearning\\ViewModels\\Courses\\CourseCreateVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -499,23 +518,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\appsettings.Development.json",
-              "RelativeToolTip": "MVC_Projekt_Elearning\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-05T07:40:04.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -523,11 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -535,11 +542,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB101\\Lahiye\\ELeraningMVCProjekt\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MvcDeploy\\MVC_Projekt_Elearning\\MVC_Projekt_Elearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "MVC_Projekt_Elearning\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
