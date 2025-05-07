@@ -1,0 +1,39 @@
+﻿@model Instructor
+@{
+    ViewData["Title"] = "Detail";
+}
+<main id=" main" class="main">
+    <div class="container " style="margin-left:350px;margin-top:200px;max-width:1160px">
+        <div class="row">
+            <div class="col-md-5">
+
+                <p><b>Instructor:</b> </p>
+                <div class="project-info-box">
+                    <p><b>FullName:</b> @Model.FullName</p>
+                    <p><b>Designation:</b> @Model.Designation</p>
+                    <p><b>Email:</b> @Model.Email</p>
+                    <p><b>Social:</b>
+                        
+                        @foreach (var item in @Model.InstructorSocials)
+                        {
+                            @item.SocialLink  <br/>
+                        }
+                        
+                    </p>
+                    <p><b>Created date:</b> @Model.CreatedDate</p>
+
+
+                </div><!-- / project-info-box -->
+
+
+                <div class="col-md-7">
+                    <img style="witdh:200px;height:200px;" src="~/img/@Model.Image" alt="project-image" class="rounded">
+                    <div class="project-info-box">
+
+                        <a asp-action="Index" class="btn btn-success">Back</a>
+                    </div><!-- / project-info-box -->
+                </div><!-- / column -->
+            </div>
+        </div>
+</main>
+

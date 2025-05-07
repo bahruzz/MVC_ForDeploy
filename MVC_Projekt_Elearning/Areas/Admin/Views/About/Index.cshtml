@@ -1,0 +1,67 @@
+﻿@model IEnumerable<AboutVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<main id="main" class="main">
+    <div class="container mt-5">
+        <h2 class="text-center">About</h2>
+        <div class="create-operations ">
+            <a asp-action="Create" class="btn btn-success text-white  mt-2"><i class="fa-solid fa-plus"></i></a>
+        </div>
+        <table class="table table-danger">
+            <thead>
+                <tr>
+
+                    <th scope="col" style="background-color:white;color:black">Title</th>
+                    <th scope="col" style="background-color:white;color:black">Description</th>
+                    <th scope="col" style="background-color:white;color:black">Created date</th>
+                    <th scope="col" style="background-color:white;color:black">Operations</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>
+                            <textarea id="w3review" name="w3review" rows="4" cols="50" readonly style="resize:none;">
+ @item.Title
+            </textarea>
+
+                        </td>
+                        <td>
+                            <textarea id="w3review" name="w3review" rows="4" cols="50" readonly style="resize:none;">
+ @item.Description
+            </textarea>
+                        </td>
+                        <td>@item.CreatedDate</td>
+                        <td>
+                            <a class="btn btn-primary text-white btn-sm" asp-action="Detail" asp-route-id="@item.Id"><i class="fa-solid fa-circle-info"></i></a>
+                            <a class="btn btn-warning text-white btn-sm" asp-action="Edit" asp-route-id="@item.Id"><i class="fa-solid fa-pen"></i></a>
+                            @if (Model.Count() == 1) { }
+                            else
+                            {
+                                <form class="d-inline" method="post" asp-action="Delete" asp-route-id="@item.Id">
+                                    <button type="submit" class="btn btn-danger text-white btn-sm"><i class="fa-solid fa-trash"></i></button>
+                                </form>
+                            }
+                           
+                        </td>
+
+                    </tr>
+
+                }
+
+
+            </tbody>
+        </table>
+
+
+
+    </div>
+</main>
+
+
+

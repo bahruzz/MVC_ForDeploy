@@ -1,0 +1,61 @@
+﻿@model IEnumerable<StudentVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<main id="main" class="main">
+    <div class="container mt-5">
+        <h2 class="text-center">Students</h2>
+        <div class="create-operations ">
+            <a asp-action="Create" class="btn btn-success text-white  mt-2"><i class="fa-solid fa-plus"></i></a>
+        </div>
+        <table class="table table-danger">
+            <thead>
+                <tr>
+
+                    <th scope="col" style="background-color:white;color:black">FullName</th>
+                    <th scope="col" style="background-color:white;color:black">Profession</th>                    
+                    <th scope="col" style="background-color:white;color:black">Operations</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="category-data">
+
+                        <td>
+                            @item.FullName
+                        </td>
+
+                        <td>
+                            @item.Profession
+                        </td>
+                       
+
+                        <td>
+                            <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary text-white small">
+                                <i class="fa-solid fa-info"></i>
+                            </a>
+
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white small">
+                                <i class="fa-solid fa-pen-to-square"></i>
+                            </a>
+                            <form class="d-inline" method="post" asp-action="Delete" asp-route-id="@item.Id">
+
+                                <button type="submit" class="btn btn-danger text-white small">
+                                    <i class="fa-solid fa-trash-can"></i>
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+
+
+
+    </div>
+</main>

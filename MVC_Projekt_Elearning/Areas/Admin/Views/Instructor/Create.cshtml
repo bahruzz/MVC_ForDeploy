@@ -1,0 +1,31 @@
+﻿@model InstructorCreateVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div id="main" class="main">
+    <div class="container mt-5">
+        <form method="post" asp-action="Create" enctype="multipart/form-data">
+            <div class="form-group">
+                
+                <label class="mt-5" for="category">FullName</label>
+                <span asp-validation-for="FullName" class="text-danger"></span>
+                <input asp-for="FullName" class="form-control form-bg-light" maxlength="100" placeholder="FullName...">
+                <label class="mt-5" for="category">Email</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+                <input asp-for="Email" class="form-control form-bg-light" maxlength="100" placeholder="Email...">
+                <label class="mt-5" for="category">Designation</label>
+                <span asp-validation-for="Designation" class="text-danger"></span>
+                <input asp-for="Designation" class="form-control form-bg-light" maxlength="100" placeholder="Designation...">
+                <label for="category">Image</label>
+                <span asp-validation-for="Image" class="text-danger"></span>
+                <input class="form-control form-bg-light" type="file" asp-for="Image" maxlength="100" placeholder="Category...">
+
+
+            </div>
+            <button type="submit" class="btn btn-primary mr-2 mt-3">Submit</button>
+            <a asp-action="Index" class="btn btn-light mr-2 mt-3">Cancel</a>
+        </form>
+    </div>
+</div>
+
