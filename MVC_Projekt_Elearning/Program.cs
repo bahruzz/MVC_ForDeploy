@@ -31,8 +31,7 @@ builder.Services.AddScoped<ISettingService, SettingService>();
 
 
 var app = builder.Build();
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-app.Urls.Add($"http://*:{port}");
+
 app.UseStaticFiles();
 
 app.UseHttpLogging();
