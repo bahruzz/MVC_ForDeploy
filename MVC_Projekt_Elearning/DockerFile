@@ -1,31 +1,29 @@
-# Base image: .NET SDK (development stage)
-FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+# Build stage: .NET 6 SDK image
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 
-# Set the working directory inside the container
 WORKDIR /app
 
-# Copy the solution file and restore dependencies
+# Copy solution and project files
 COPY MVC_Projekt_Elearning.sln ./
 COPY MVC_Projekt_Elearning/MVC_Projekt_Elearning.csproj ./MVC_Projekt_Elearning/
+
+# Restore dependencies
 RUN dotnet restore MVC_Projekt_Elearning.sln
 
-# Copy the rest of the project files
+# Copy remaining files and build
 COPY . ./
-
-# Publish the application in release mode
 RUN dotnet publish MVC_Projekt_Elearning/MVC_Projekt_Elearning.csproj -c Release -o /app/publish
 
-# Base image: .NET runtime (production stage)
-FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS final
+# Runtime stage: .NET 6 ASP.NET image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
 
-# Set the working directory inside the container
 WORKDIR /app
 
-# Copy the published application from the build stage
+# Copy published output
 COPY --from=build /app/publish .
 
-# Expose the port the app runs on
+# Expose default port
 EXPOSE 80
 
-# Define the entry point for the container
+# Start the application
 ENTRYPOINT ["dotnet", "MVC_Projekt_Elearning.dll"]
